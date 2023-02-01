@@ -1,3 +1,5 @@
+/*Criando tabelas e colunas*/
+
 CREATE TABLE tbclientes ( 	
 	CPF VARCHAR (11) ,
 	NOME VARCHAR (100) ,

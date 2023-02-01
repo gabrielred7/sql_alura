@@ -3,6 +3,7 @@
 USE LOJA;
 
  /* Seleciona as colunas para inserir as informações nos registros */
+ 
 INSERT INTO tbprodutos (
 	COD_PRODUTO, 
 	NOME, 
